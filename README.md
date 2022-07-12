@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript and PHP**
 
-- 📫 How to reach me **miltonbautista60@gmail.com**
+- 📫 How to reach me **milton_bautista@yahoo.com**
 
 - ⚡ Fun fact **I am a fun guy**
 
